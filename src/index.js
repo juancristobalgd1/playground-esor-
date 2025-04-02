@@ -6,7 +6,7 @@ component('my-counter', () => {
 
   return html`
       <button onclick=${()=>count(count() - 1)}>-</button>
-      <span>${count}</span>
+      <span> count: ${count}</span>
       <button onclick=${()=>count(count() + 1)}>+</button>
 
       <style>
