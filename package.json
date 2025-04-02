@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/juancristobalgd1.plainjs-m8za4anp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve wwY4BTQfodZh9QJoG7XT --open"
+  }
+}
